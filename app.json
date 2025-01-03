@@ -1,9 +1,9 @@
 {
-  "name": "PRINCEMD",
+  "name": "HASNAIN-MD",
   "description": "whatsapp user bot",
-  "repository": "https://github.com/DASTAGHIR/PRINCEMD",
-  "logo": "https://qu.ax/igJFS.png",
-  "success_url": "https://github.com/DASTAGHIR/PRINCEMD",
+  "repository": "https://github.com/Hasnain-bot/HASNAIN-MD.git",
+  "logo": "https://qu.ax/xbxrc.jpg",
+  "success_url": "https://github.com/Hasnain-bot/HASNAIN-MD.git",
   "keywords": [
     "nodejs", "heroku", "bot", "urdu", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
     "termux", "superbot", "multi-device", "md", "official", "javascript", "princebot"
@@ -19,12 +19,12 @@
     "BOT_NAME": {
       "description": "put your BOT a name",
       "required": true,
-      "value": "PRINCE-MD"
+      "value": "HASNAIN-MD"
     },
     "OWNER_NUMBER": {
       "description": "put your Number and name for Owner",
       "required": true,
-      "value": "9230926680000,❣️PRINCE THE DEVELOPER"
+      "value": "923180434543,❣️ HASNAIN MD"
     },
     "MODE": {
       "description": "choose bot mode public or private",
@@ -79,7 +79,7 @@
     "PACK_NAME": {
       "description": "put your stickers pack name",
       "required": false,
-      "value": "Princebot🎗️❣️"
+      "value": "HASNAIN-MD🎗️❣️"
     },
     "DL_MSG": {
       "description": "Video downloader caption",
